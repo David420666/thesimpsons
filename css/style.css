@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+/* .cajafondo{
+    display: flex;
+    background-color: purple;
+    border-style: solid;
+    height: 14rem;
+    border-width: 1px;
+    justify-content: center;
+    align-items: center;
+} */
+h1{
+    text-align: center;
+}
+a{
+    height: 14rem;
+    width: 100%;
+    vertical-align: center;
+    justify-content: center;
+}
+a:hover {
+    color: purple !important;
+  }
+h4{
+    margin-bottom: 20px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.bart1{
+    width: 4rem;
+}
+
+.animate:hover {
+    transform: scale(2.05);
+  }
